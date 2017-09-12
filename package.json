@@ -1,0 +1,16 @@
+{
+  "name": "node-rsa-demo",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "connect-timeout": "^1.9.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.4",
+    "node-rsa": "^0.4.2",
+    "nodemon": "^1.12.0",
+    "path": "^0.12.7"
+  }
+}
